@@ -1,6 +1,5 @@
 <h1 align="left" id="mostafa-title">👋 Hello! I'm Mostafa Elsharkawi</h1>
 <h3 align="left">Business Information Systems Student | AI & Data Analysis Enthusiast 🚀</h3>
-
 <p align="left">
   <a href="https://github.com/mostafa2005G">
     <img src="https://komarev.com/ghpvc/?username=mostafa2005G&style=flat" alt="profile views" />
@@ -13,18 +12,9 @@
   </a>
 </p>
 
-<a href="#mostafa-title">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mostafa2005G&show_icons=true&theme=dark&hide_border=true"
-    alt="Mostafa GitHub Stats"
-    align="right"
-  />
-</a>
-
 ---
 
 ## 🎓 About Me
-
 - 🎓 **Business Information Systems (BIS) student**
 - 📊 Passionate about **Data Analysis & Business insights**
 - 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
@@ -35,7 +25,6 @@
 ---
 
 ## 🛠️ Skills & Tools
-
 > Technologies and tools I use while learning and building projects.
 
 <table>
@@ -69,7 +58,7 @@
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="48"/>
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="48"/>
       <br>Excel
     </td>
   </tr>
@@ -88,7 +77,6 @@
 ---
 
 ## 📌 Currently Learning & Applying
-
 - 🤖 Machine Learning with **scikit-learn**
 - 🔗 Building AI workflows using **LangChain**
 - 📊 Data analysis & visualization with **Python, Power BI, Excel, Matplotlib & Seaborn**
@@ -97,8 +85,7 @@
 
 ---
 
-## 📫 Let’s Connect
-
+## 📫 Let's Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/mostafa-elsharkawi-30023b357  
 - 💬 Explore my repositories to see my learning journey  
 - ⭐ Follow me on GitHub for future projects  
